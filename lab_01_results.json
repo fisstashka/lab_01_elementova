@@ -1,0 +1,403 @@
+{
+  "student": "Элементова Ирина Сергеевна",
+  "group": "ИНФА-231",
+  "variant": 14,
+  "corpus_source": "books.toscrape.com + синтетический корпус",
+  "corpus_total": 1650,
+  "sample_size": 1250,
+  "random_state": 114,
+  "min_len": 3,
+  "vocabulary_size": 21169,
+  "build_time_seconds": 0.1997762349999448,
+  "query": "magic world",
+  "query_terms": [
+    "magic",
+    "world"
+  ],
+  "main_operator": "AND",
+  "and_results_count": 52,
+  "and_time_seconds": 1.0547000101723825e-05,
+  "or_results_count": 505,
+  "or_time_seconds": 2.7340499968886434e-05,
+  "linear_search_time_seconds": 0.1464944970000488,
+  "index_speedup": 13783.825555419253,
+  "vocabulary_by_min_len": {
+    "1": 21445,
+    "2": 21407,
+    "3": 21169,
+    "4": 20128,
+    "5": 18263
+  },
+  "vocabulary_by_corpus_size": {
+    "100": 4729,
+    "250": 8475,
+    "500": 12954,
+    "1250": 21169
+  },
+  "results": [
+    {
+      "doc_id": 7,
+      "source_id": 1278,
+      "title": "Fipokem Promise Zud Majvucurud",
+      "genre": "Childrens",
+      "price": 43.8
+    },
+    {
+      "doc_id": 34,
+      "source_id": 1377,
+      "title": "Not Science",
+      "genre": "Art",
+      "price": 12.09
+    },
+    {
+      "doc_id": 56,
+      "source_id": 1063,
+      "title": "Or On",
+      "genre": "Art",
+      "price": 16.55
+    },
+    {
+      "doc_id": 63,
+      "source_id": 204,
+      "title": "Big Magic: Creative Living Beyond Fear",
+      "genre": "",
+      "price": 30.8
+    },
+    {
+      "doc_id": 66,
+      "source_id": 125,
+      "title": "A Fierce and Subtle Poison",
+      "genre": "",
+      "price": 28.13
+    },
+    {
+      "doc_id": 106,
+      "source_id": 961,
+      "title": "Old Records Never Die: One Man&#39;s Quest for His Vinyl and His Past",
+      "genre": "",
+      "price": 55.66
+    },
+    {
+      "doc_id": 128,
+      "source_id": 1334,
+      "title": "Reading Diho Kavi Lugkeper",
+      "genre": "Art",
+      "price": 49.07
+    },
+    {
+      "doc_id": 139,
+      "source_id": 1189,
+      "title": "Paduj Cucy Gyppovtoden Hyjok",
+      "genre": "Thriller",
+      "price": 23.92
+    },
+    {
+      "doc_id": 146,
+      "source_id": 1263,
+      "title": "Wotfy Comet",
+      "genre": "Philosophy",
+      "price": 30.17
+    },
+    {
+      "doc_id": 179,
+      "source_id": 1566,
+      "title": "That On",
+      "genre": "Biography",
+      "price": 21.74
+    },
+    {
+      "doc_id": 247,
+      "source_id": 1006,
+      "title": "Hedu Clock Gakka",
+      "genre": "Mystery",
+      "price": 47.13
+    },
+    {
+      "doc_id": 253,
+      "source_id": 1485,
+      "title": "Robot Canyon",
+      "genre": "Horror",
+      "price": 12.72
+    },
+    {
+      "doc_id": 299,
+      "source_id": 1272,
+      "title": "Lekytavko Tywowe",
+      "genre": "Thriller",
+      "price": 41.87
+    },
+    {
+      "doc_id": 302,
+      "source_id": 1154,
+      "title": "Escape Ocean Wicvy Ny",
+      "genre": "Mystery",
+      "price": 48.66
+    },
+    {
+      "doc_id": 304,
+      "source_id": 1301,
+      "title": "We Hy Vot Cyn",
+      "genre": "Fantasy",
+      "price": 20.07
+    },
+    {
+      "doc_id": 305,
+      "source_id": 1136,
+      "title": "Rup The Wobowfi",
+      "genre": "History",
+      "price": 48.21
+    },
+    {
+      "doc_id": 356,
+      "source_id": 958,
+      "title": "Origins (Alphas 0.5)",
+      "genre": "",
+      "price": 28.99
+    },
+    {
+      "doc_id": 358,
+      "source_id": 1612,
+      "title": "General Cucy",
+      "genre": "Horror",
+      "price": 44.96
+    },
+    {
+      "doc_id": 402,
+      "source_id": 1055,
+      "title": "Lovu Prison Cebitup Witness",
+      "genre": "Music",
+      "price": 55.77
+    },
+    {
+      "doc_id": 428,
+      "source_id": 1008,
+      "title": "Casdispe Wotfy",
+      "genre": "Childrens",
+      "price": 25.56
+    },
+    {
+      "doc_id": 464,
+      "source_id": 1434,
+      "title": "Vuwlu Kavi Lekytavko",
+      "genre": "Romance",
+      "price": 38.89
+    },
+    {
+      "doc_id": 466,
+      "source_id": 27,
+      "title": "Aladdin and His Wonderful Lamp",
+      "genre": "",
+      "price": 53.13
+    },
+    {
+      "doc_id": 475,
+      "source_id": 1355,
+      "title": "That Susjip Dragon Targozavje",
+      "genre": "Childrens",
+      "price": 41.23
+    },
+    {
+      "doc_id": 479,
+      "source_id": 1250,
+      "title": "For Zegotna Menboco Wakfachi",
+      "genre": "Art",
+      "price": 23.9
+    },
+    {
+      "doc_id": 536,
+      "source_id": 1054,
+      "title": "Voyage Door Cottage",
+      "genre": "Romance",
+      "price": 12.88
+    },
+    {
+      "doc_id": 561,
+      "source_id": 716,
+      "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+      "genre": "",
+      "price": 10.02
+    },
+    {
+      "doc_id": 579,
+      "source_id": 1060,
+      "title": "Wipsaruda And Fogyhosi",
+      "genre": "Science",
+      "price": 25.66
+    },
+    {
+      "doc_id": 595,
+      "source_id": 1291,
+      "title": "Ciritedlaf Zyttykekweg Science",
+      "genre": "Classics",
+      "price": 23.36
+    },
+    {
+      "doc_id": 651,
+      "source_id": 1137,
+      "title": "Kykyto Cisywij Vydty Canyon",
+      "genre": "Romance",
+      "price": 22.73
+    },
+    {
+      "doc_id": 668,
+      "source_id": 1052,
+      "title": "Fihfawiz Callycufwac Tuvvinke",
+      "genre": "Music",
+      "price": 14.78
+    },
+    {
+      "doc_id": 673,
+      "source_id": 1202,
+      "title": "Story Cebitup Vuwlu Bavipty",
+      "genre": "Childrens",
+      "price": 24.33
+    },
+    {
+      "doc_id": 690,
+      "source_id": 1294,
+      "title": "Day Glacier",
+      "genre": "Travel",
+      "price": 30.09
+    },
+    {
+      "doc_id": 700,
+      "source_id": 1146,
+      "title": "Judyfef Ju",
+      "genre": "Childrens",
+      "price": 37.05
+    },
+    {
+      "doc_id": 702,
+      "source_id": 1390,
+      "title": "Clock Clue Di",
+      "genre": "Historical Fiction",
+      "price": 44.74
+    },
+    {
+      "doc_id": 704,
+      "source_id": 75,
+      "title": "Security",
+      "genre": "",
+      "price": 39.25
+    },
+    {
+      "doc_id": 709,
+      "source_id": 1177,
+      "title": "Kyclizbaw Accent Bafev Niga",
+      "genre": "Philosophy",
+      "price": 35.26
+    },
+    {
+      "doc_id": 740,
+      "source_id": 1428,
+      "title": "Zapo General Wipewi Bafev",
+      "genre": "Music",
+      "price": 26.17
+    },
+    {
+      "doc_id": 807,
+      "source_id": 1436,
+      "title": "Fujlawodow Window",
+      "genre": "Classics",
+      "price": 13.75
+    },
+    {
+      "doc_id": 838,
+      "source_id": 1118,
+      "title": "Jagcecu Rhythm Fyle With",
+      "genre": "Mystery",
+      "price": 56.82
+    },
+    {
+      "doc_id": 868,
+      "source_id": 1156,
+      "title": "World Vutgyvebe",
+      "genre": "Mystery",
+      "price": 37.93
+    },
+    {
+      "doc_id": 870,
+      "source_id": 900,
+      "title": "Fruits Basket, Vol. 2 (Fruits Basket #2)",
+      "genre": "",
+      "price": 11.64
+    },
+    {
+      "doc_id": 898,
+      "source_id": 1470,
+      "title": "By Semuha",
+      "genre": "Childrens",
+      "price": 52.86
+    },
+    {
+      "doc_id": 981,
+      "source_id": 1047,
+      "title": "Fihfawiz Dulmu",
+      "genre": "Travel",
+      "price": 45.27
+    },
+    {
+      "doc_id": 999,
+      "source_id": 1364,
+      "title": "Window Battle",
+      "genre": "History",
+      "price": 41.56
+    },
+    {
+      "doc_id": 1006,
+      "source_id": 839,
+      "title": "Golden (Heart of Dread #3)",
+      "genre": "",
+      "price": 42.21
+    },
+    {
+      "doc_id": 1061,
+      "source_id": 1407,
+      "title": "Nyvtalo Nivagichy Fyle",
+      "genre": "Classics",
+      "price": 33.65
+    },
+    {
+      "doc_id": 1154,
+      "source_id": 926,
+      "title": "The Name of the Wind (The Kingkiller Chronicle #1)",
+      "genre": "",
+      "price": 50.59
+    },
+    {
+      "doc_id": 1185,
+      "source_id": 806,
+      "title": "Midnight Riot (Peter Grant/ Rivers of London - books #1)",
+      "genre": "",
+      "price": 55.46
+    },
+    {
+      "doc_id": 1197,
+      "source_id": 1499,
+      "title": "Sunoci Writing At Nyvtalo",
+      "genre": "Horror",
+      "price": 17.78
+    },
+    {
+      "doc_id": 1216,
+      "source_id": 1265,
+      "title": "Nyci Vot",
+      "genre": "Classics",
+      "price": 21.1
+    },
+    {
+      "doc_id": 1223,
+      "source_id": 1498,
+      "title": "Nu Clock All",
+      "genre": "Art",
+      "price": 40.38
+    },
+    {
+      "doc_id": 1239,
+      "source_id": 1167,
+      "title": "Ocean Kudi Cym Was",
+      "genre": "Poetry",
+      "price": 19.75
+    }
+  ]
+}
